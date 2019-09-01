@@ -1,9 +1,9 @@
-<h1> Labs </h1>
+﻿<h1>Télécom Paris: Computer Labs</h1>
 
-This repository contains some reports I did during my courses at Télécom ParisTech. For now, one may look at :
+This repository contains some computer labs I had during my second year at Télécom Paris. For now, one may look at:
 
-* A lab about databases where we use SQL. This is available in the [<tt>databases</tt>](https://github.com/moulinantoine/labs/tree/master/databases) folder.
+* The databases course's labs where we use SQL (first period of the year). This is available in the [<tt>databases</tt>](https://github.com/moulinantoine/labs-telecom/tree/master/databases) folder.
 
-* A lab about linear regression that compares the results obtained with two different methods : one using the theory and another using the library <tt>scikit-learn</tt>. This is available in the <tt>linear_regression</tt> folder.
+* The linear models course's labs (second period of the year). There is a lab about linear regression that compares the results obtained using the <tt>numpy</tt> library as well as the theory or using the <tt>scikit-learn</tt> library. There is also a lab that compares different methods such as PCA, Forward Variable Selection, Ridge and Lasso. This is available in the [<tt>linear_regression</tt>](https://github.com/moulinantoine/labs-telecom/tree/master/linear_models) folder.
 
-* A lab that compares different methods such as PCA, Forward Variable Selection, Ridge and Lasso. This is available in the <tt>methods_before_ols</tt> folder.
+UNDER CONSTRUCTION
