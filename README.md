@@ -39,3 +39,11 @@ As it takes time to check and make everything readable for everyone, I have not 
      1. [Naive Bayes](https://github.com/moulinantoine/labs-telecom/tree/master/nlp/naive_bayes)
      2. [Hidden Markov Models](https://github.com/moulinantoine/labs-telecom/tree/master/nlp/hmm)
      3. [Recurrent Neural Network (RNN)](https://github.com/moulinantoine/labs-telecom/tree/master/nlp/rnn)
+     
+8. [Object recognition](https://github.com/moulinantoine/labs-telecom/tree/master/object_recognition)
+     1. [Unsupervised Learning](https://github.com/moulinantoine/labs-telecom/tree/master/object_recognition/1-unsupervised_learning)
+     2. [Supervised Learning](https://github.com/moulinantoine/labs-telecom/tree/master/object_recognition/2-supervised_learning)
+     3. [Skin lesion classification](https://github.com/moulinantoine/labs-telecom/tree/master/object_recognition/3-skin_lesion_classification)
+     4. [Random forest](https://github.com/moulinantoine/labs-telecom/tree/master/object_recognition/4-random_forest)
+     5. [Multi-layer Perceptron (MLP)](https://github.com/moulinantoine/labs-telecom/tree/master/object_recognition/5-mlp)
+     6. [Convolutional Neural Network (CNN)](https://github.com/moulinantoine/labs-telecom/tree/master/object_recognition/6-cnn)
