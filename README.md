@@ -1,6 +1,6 @@
 # Télécom Paris: Computer Labs (2018/2019)
 
-This repository contains some computer labs I had during my second year at Télécom Paris. The authors of each lab are mentioned in the subject and/or the submission I wrote (most of the time alone, sometimes with another student). Most of the labs take the form of a notebook or a Python file, but there are also labs that use MATLAB. 
+This repository contains some computer labs I had during my second year at Télécom Paris. The authors of each lab are mentioned in the subject and/or the submission I wrote (most of the time alone, sometimes with another student). Most of the labs take the form of a notebook or a Python file, but some labs use MATLAB. 
 
 1. [Databases](https://github.com/moulinantoine/labs-telecom/tree/master/databases) <br/>
      1. [Finding keys using functional dependencies](https://github.com/moulinantoine/labs-telecom/tree/master/databases)
