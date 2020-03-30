@@ -1,6 +1,6 @@
 # Télécom Paris: Computer Labs (2018/2019)
 
-This repository contains some computer labs I had during my second year at Télécom Paris (equivalent to the first year of a MSc). The authors of each lab are mentioned in the subject and/or the submission I wrote (most of the time alone, sometimes with another student). Most of the labs take the form of a notebook or a Python file, but some labs use MATLAB. 
+This repository contains some computer labs I had during my second year at Télécom Paris (equivalent to the first year of an MSc). The authors of each lab are mentioned in the subject and/or the submission I wrote (most of the time alone, sometimes with another student). Most of the labs take the form of a notebook or a Python file, but some labs use MATLAB. 
 
 As it takes time to check and make everything readable for everyone, I have not necessarily cleaned the notebooks I did not finish then (but maybe someday I will, to make this repository consistent). Hence, for some rare cases, the subject is written in French. For some other cases (e.g. the last labs of Graph Mining), the notebooks may be incomplete, but it is rare as well.
 
